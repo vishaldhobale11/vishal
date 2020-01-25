@@ -1,9 +1,9 @@
-print'{i am hungry}'
+hungry=input("are you hungry?")
+if hungry=="yes":
 
-hungry={are you hungry?}
-if "yes"
-
-print '{eat dinner}'
+print("eat dinner")
 
 else:
+    thrusty=("are you thrusty?")
+    if thrusty=="yes":
     print'{do your homework}'
